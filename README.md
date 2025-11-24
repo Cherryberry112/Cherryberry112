@@ -14,7 +14,7 @@
 
 
 ***About Me:***<img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZ3YWM0MzdrNGpwNWQzb3B3MzU1MGxuMW1ucTZ5MmZkcXFuZ3pxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ATBwlz6fCGxd2mDRHg/giphy.gif" width = 35>&nbsp;
-<br><br>
+<br>
 <pre>
 💼 BSC @ EWU • Data Science • LLM-NPL
 💻 I love exploring new technologies and building projects
