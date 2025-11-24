@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Lajim </h1> -->
 <!-- <h3 align="center">A CS student from Bangladesh</h3> -->
 <samp>
-    <h3 align="center">I'm <code><b>Mohua</b></code></h3>
+    <h3 align="center">Hi, I'm <code><b>Mohua</b></code></h3>
     
 </samp>
 
@@ -16,11 +16,11 @@
 ***About Me:***<img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZ3YWM0MzdrNGpwNWQzb3B3MzU1MGxuMW1ucTZ5MmZkcXFuZ3pxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ATBwlz6fCGxd2mDRHg/giphy.gif" width = 35>&nbsp;
 <br>
 <pre>
-💼 BSC @ EWU • Data Science • LLM-NPL
-💻 I love exploring new technologies and building projects
-📖 I'm still learning and experimenting and improving my skills step by step
-🎮 I enjoy creating & breaking things, and figuring out how everything works
-🐾 AKL 🐰 • Cake & Fuchka 🐤🐥
+• BSC @ EWU • Computer Science and engineering 
+• I love exploring new technologies and building projects
+• I'm still learning and experimenting and improving my skills step by step
+• I enjoy creating & breaking things, and figuring out how everything works
+• love Cake & Ice-cream 🐤🐥
 </pre>
 <br>
 <p align="center">
