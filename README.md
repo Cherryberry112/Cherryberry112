@@ -1,5 +1,4 @@
 <!-- <h1 align="center">Hi 👋, I'm Lajim </h1> -->
-<!-- <h3 align="center">A CS student from Bangladesh</h3> -->
 <samp>
     <h3 align="center">Hi, I'm <code><b>Mohua</b></code></h3>
     
