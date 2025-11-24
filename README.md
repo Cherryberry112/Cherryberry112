@@ -17,17 +17,17 @@
 <br><br>
 <pre>
 💼 BSC @ EWU • Data Science • LLM-NPL
-💻 I'm someone who loves exploring new technologies and building projects using different tools 
-📖 I'm still learning and experimenting, trying out ideas, and improving my skills step by step
-🎮 I enjoy creating things, breaking things, and figuring out how everything works along the way
+💻 I love exploring new technologies and building projects
+📖 I'm still learning and experimenting and improving my skills step by step
+🎮 I enjoy creating & breaking things, and figuring out how everything works
 🐾 AKL 🐰 • Cake & Fuchka 🐤🐥
 </pre>
-<br><br>
+<br>
+<p align="center">
+<img src="https://github.com/Cherryberry112/Cherryberry112/blob/953e550dfedc42ab1b7ba26b7dd9b8023853b8c1/kyubey.gif" height="40" />
 
 
-***Connect:***<img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5rZWZ0dG1mYXZtdGZ1cTdzMDNmamNyYXJvZ3h5Y211ZGluZXg5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hLPZbjV0KyHQI/giphy.gif" width = 45>&nbsp;
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohua-akter-b19ba628b/)
+***Connect:***<img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNpdWFjOHA4aXQ4YXdzc3hsZnpzcnp4cTdtZ2IwazJvazZkM3dqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2k20U6m5zKTBKduiJa/giphy.gif" width = 45>&nbsp; <a href="https://linkedin.com/in/mohua-akter-b19ba628b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 <br>
 
