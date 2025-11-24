@@ -62,11 +62,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<!--### ✍️Dev Quote
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in)
-
-### 🔝 Top Contributed Repo
-//![](https://github-contributor-stats.vercel.app/api?username=Abrarbb&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 [![](https://visitcount.itsvg.in/api?id=Abrarbb&icon=0&color=0)](https://visitcount.itsvg.in)
 
