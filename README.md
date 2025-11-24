@@ -57,7 +57,7 @@
 </p>
 <br>
 <p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJoeGFicWRpYzRwdHFtbzd4dmdyNWZlenI4MzVpZG4weDVveWsyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/liUhPmZdArpYc/giphy.gif">
+<img src="https://github.com/Cherryberry112/Cherryberry112/blob/960e9f974e66fc457ca2a3782364952f628ee831/40f042b8-3e35-4ac6-90fb-77de73438eac.gif">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
