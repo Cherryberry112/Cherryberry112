@@ -18,7 +18,6 @@
 • BSC @ EWU • Computer Science and engineering 
 • I love exploring new technologies and building projects
 • I'm still learning and experimenting and improving my skills step by step
-• I enjoy creating & breaking things, and figuring out how everything works
 • love Cake & Ice-cream 🐤🐥
 </pre>
 <br>
